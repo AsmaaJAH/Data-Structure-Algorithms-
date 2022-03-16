@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640541572 source:d:\asmaa 2021\collage\3rd\ds\3. lab\9\1_huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+

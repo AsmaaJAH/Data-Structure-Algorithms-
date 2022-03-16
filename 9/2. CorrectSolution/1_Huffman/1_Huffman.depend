@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640656984 source:d:\asmaa 2021\collage\3rd\ds\3. lab\9\thecorrectsolution\1_huffman\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
