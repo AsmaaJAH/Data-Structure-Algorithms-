@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636656462 source:d:\asmaa 2021\collage\3rd\ds\3. lab\4\queue_operations\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

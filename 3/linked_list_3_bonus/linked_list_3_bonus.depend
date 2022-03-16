@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636162730 source:d:\asmaa 2021\collage\3rd\ds\3. lab\3\linked_list_3_bonus\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

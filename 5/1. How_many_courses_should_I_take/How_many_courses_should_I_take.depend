@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1637517753 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\how_many_courses_should_i_take\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+
+1637516197 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\how_many_courses_should_i_take\new.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1637516197 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\how_many_courses_should_i_take\new_new.c
+	<stdio.h>
+
+1637530830 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\1. how_many_courses_should_i_take\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

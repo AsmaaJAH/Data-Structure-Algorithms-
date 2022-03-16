@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637495437 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\binary_expression_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1637492746 source:d:\asmaa 2021\collage\3rd\ds\3. lab\5\binary_expression_tree\required old main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<limits.h>
+

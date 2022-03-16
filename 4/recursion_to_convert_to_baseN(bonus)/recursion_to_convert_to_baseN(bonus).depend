@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636659539 source:d:\asmaa 2021\collage\3rd\ds\3. lab\4\recursion_to_convert_to_basen(bonus)\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
