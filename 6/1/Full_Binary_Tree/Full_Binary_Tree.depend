@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638815404 source:d:\asmaa 2021\collage\3rd\ds\3. lab\6\full_binary_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

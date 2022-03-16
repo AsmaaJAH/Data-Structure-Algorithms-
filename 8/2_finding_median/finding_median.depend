@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639891686 source:d:\asmaa 2021\collage\3rd\ds\3. lab\8\finding_median\main.c
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

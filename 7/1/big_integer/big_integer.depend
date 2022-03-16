@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639324504 source:d:\asmaa 2021\collage\3rd\ds\3. lab\7\my_old_solutionof_bigint_problem\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
